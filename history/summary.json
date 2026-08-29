@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 575,
-    "timeDay": 585,
-    "timeWeek": 502,
-    "timeMonth": 519,
-    "timeYear": 575,
+    "time": 577,
+    "timeDay": 657,
+    "timeWeek": 572,
+    "timeMonth": 535,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2026-06-29": 85
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 393,
-    "timeDay": 513,
-    "timeWeek": 369,
-    "timeMonth": 361,
-    "timeYear": 393,
+    "time": 394,
+    "timeDay": 457,
+    "timeWeek": 406,
+    "timeMonth": 369,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2026-06-29": 78
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mapcore-demo.org.ico",
     "slug": "devel-flatmap",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
-    "time": 426,
-    "timeDay": 569,
-    "timeWeek": 434,
-    "timeMonth": 537,
-    "timeYear": 426,
+    "uptimeYear": "99.38%",
+    "time": 425,
+    "timeDay": 485,
+    "timeWeek": 451,
+    "timeMonth": 546,
+    "timeYear": 425,
     "dailyMinutesDown": {
       "2026-06-29": 71,
       "2026-07-05": 599
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 481,
-    "timeWeek": 791,
-    "timeMonth": 570,
-    "timeYear": 513,
+    "time": 511,
+    "timeDay": 422,
+    "timeWeek": 687,
+    "timeMonth": 564,
+    "timeYear": 511,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 519,
-    "timeDay": 144,
-    "timeWeek": 418,
-    "timeMonth": 314,
-    "timeYear": 519,
+    "time": 514,
+    "timeDay": 123,
+    "timeWeek": 403,
+    "timeMonth": 313,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2026-07-05": 104
     }
