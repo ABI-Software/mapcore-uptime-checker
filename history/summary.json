@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 580,
-    "timeDay": 783,
-    "timeWeek": 594,
-    "timeMonth": 529,
-    "timeYear": 580,
+    "time": 582,
+    "timeDay": 750,
+    "timeWeek": 648,
+    "timeMonth": 534,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2026-06-29": 85
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 395,
-    "timeDay": 520,
-    "timeWeek": 399,
-    "timeMonth": 366,
-    "timeYear": 395,
+    "time": 397,
+    "timeDay": 644,
+    "timeWeek": 453,
+    "timeMonth": 373,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2026-06-29": 78
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mapcore-demo.org.ico",
     "slug": "devel-flatmap",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 426,
-    "timeDay": 409,
-    "timeWeek": 415,
-    "timeMonth": 544,
+    "timeDay": 415,
+    "timeWeek": 444,
+    "timeMonth": 541,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2026-06-29": 71,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 523,
-    "timeWeek": 518,
-    "timeMonth": 593,
-    "timeYear": 513,
+    "time": 514,
+    "timeDay": 615,
+    "timeWeek": 521,
+    "timeMonth": 607,
+    "timeYear": 514,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 502,
-    "timeDay": 190,
-    "timeWeek": 263,
-    "timeMonth": 312,
-    "timeYear": 502,
+    "time": 497,
+    "timeDay": 109,
+    "timeWeek": 230,
+    "timeMonth": 306,
+    "timeYear": 497,
     "dailyMinutesDown": {
       "2026-07-05": 104
     }
